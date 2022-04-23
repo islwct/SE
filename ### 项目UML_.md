@@ -4,7 +4,6 @@
 
 #### 一、 项目流程
 
-![0drawio2.png](/api/users/image?path=8452/images/1650014465281.png)
 
 
 
@@ -12,11 +11,11 @@
 
 #### 1.游戏总用例图：
 
-![1.png](/api/users/image?path=8452/images/1650011633659.png)
+![image](https://github.com/islwct/SE/edit/main/img/UML/1.png)
 
 #### 2.玩家进入游戏用例图：
 
-![2.png](/api/users/image?path=8452/images/1650011640331.png)
+![image](https://github.com/islwct/SE/edit/main/img/UML/2.png)
 
 * 行动：玩家通过键盘上A(向左跑)、D（向右跑）、SPACE空格（跳跃）来控制人物角色在地图中自由移动。
 * 攻击：玩家通过点击鼠标左键来进行一次攻击操作，该操作可在地上或空中跳跃时完成。
@@ -24,7 +23,7 @@
 
 #### 3.敌人用例图：
 
-![3.png](/api/users/image?path=8452/images/1650011645920.png)
+![image](https://github.com/islwct/SE/edit/main/img/UML/3.png)
 
 * 行动：每个敌人都有自己的运动控制脚本，在地图中一定区域内移动。
 * 攻击：一种敌人不会主动攻击，但玩家接触到敌人后会降低血量；另一种敌人会主动攻击玩家，玩家被击中后会降低血量。
@@ -32,7 +31,7 @@
 
 #### 4.类图
 
-![4.png](/api/users/image?path=8452/images/1650012264577.png)
+![image](https://github.com/islwct/SE/edit/main/img/UML/4.png)
 
 | **类名**   | **功能**                   | **属性**                      | **操作说明**                                                                                             | **关系说明**                                     |
 | ------------ | ---------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
@@ -47,19 +46,18 @@
 
 #### 5.玩家行动时序图
 
-![5.png](/api/users/image?path=8452/images/1650011657770.png)
+![image](https://github.com/islwct/SE/edit/main/img/UML/5.png)
 
 #### 6.玩家攻击时序图
 
-![6.png](/api/users/image?path=8452/images/1650011662042.png)
+![image](https://github.com/islwct/SE/edit/main/img/UML/6.png)
 
 #### 7.游戏活动图
 
-![7.png](/api/users/image?path=8452/images/1650012274099.png)
+![image](https://github.com/islwct/SE/edit/main/img/UML/7.png)
 
 #### 三、游戏验收
-
-![default.jpg](/api/users/image?path=8495/images/1650014265109.png)
+![image](https://github.com/islwct/SE/edit/main/img/UML/8.png)
 
 
 
