@@ -57,7 +57,7 @@
 ![image](https://github.com/islwct/SE/edit/main/img/UML/7.png)
 
 #### 三、游戏验收
-![image](https://github.com/islwct/SE/edit/main/img/UML/8.jpg)
+![8.jpg](https://github.com/islwct/SE/edit/main/img/UML/8.jpg)
 
 
 
